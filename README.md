@@ -3,12 +3,12 @@
 
 <p align="center">
 Equipe de Desenvolvimento:
-
-- Antonio Lima
-- Cícero Marlon
-- Flávius Caio
-- Igor Lopes
-- Victor Manuel
+  
+Antonio Lima
+Cícero Marlon
+Flávius Caio
+Igor Lopes
+Victor Manuel
 </p>
 
 <h1>LOGIN</h1>
