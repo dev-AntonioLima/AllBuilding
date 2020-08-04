@@ -1,9 +1,9 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/Victormbg/AllBuildingApp)
 <br>
 
-
-Equipe de Desenvolvimento:
 <p align="center">
+Equipe de Desenvolvimento:
+
 - Antonio Lima
 - Cícero Marlon
 - Flávius Caio
