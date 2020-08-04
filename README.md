@@ -1,16 +1,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/Victormbg/AllBuildingApp)
 <br>
 
-<p align="center">
-Equipe de Desenvolvimento:
-  
-Antonio Lima
-Cícero Marlon
-Flávius Caio
-Igor Lopes
-Victor Manuel
-</p>
-
 <h1>LOGIN</h1>
 <!-- Login -->
 <p align="center">
