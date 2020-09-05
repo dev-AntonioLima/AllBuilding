@@ -1,44 +1,44 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/dev-AntonioLima/allbuilding)
 <br>
 
-<h1>LOGIN</h1>
 <!-- Login -->
+<h1>LOGIN</h1>
 <p align="center">
 <img src="./src/assets/img/login.png" width="300px"><br>
 </p>
 
-<h1>CADASTRO</h1>
 <!-- Cadastro -->
+<h1>CADASTRO</h1>
 <p align="center">
 <img src="./src/assets/img/loginCad.png" width="300px"><br>
 </p>
 
-<h1>REDEFINIR</h1>
 <!-- Redefinir -->
+<h1>REDEFINIR</h1>
 <p align="center">
 <img src="./src/assets/img/loginRed.png" width="300px"><br>
 </p>
 
-<h1>DESTAQUE</h1>
 <!-- Destaque -->
+<h1>DESTAQUE</h1>
 <p align="center">
 <img src="./src/assets/img/destaque.png" width="300px"><br>
 </p>
 
-<h1>BUSCA</h1>
 <!-- Busca -->
+<h1>BUSCA</h1>
 <p align="center">
 <img src="./src/assets/img/busca.png" width="300px"><br>
 </p>
 
-<h1>PERFIL</h1>
 <!-- Perfil -->
+<h1>PERFIL</h1>
 <p align="center">
 <img src="./src/assets/img/perfil.png" width="300px"><br>
 </p>
 
-<h1>SOBRE</h1>
 <!-- Sobre -->
+<h1>SOBRE</h1>
 <p align="center">
 <img src="./src/assets/img/Sobre.png" width="300px"><br>
 </p>
